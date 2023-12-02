@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Internet of Things, Object Oriented Programming, Data Structures and Algorithms
 - 📫 How to reach me ilarika2003@gmail.com
-- 👨‍💻 All of my projects are available at <a id="link" href="https://github.com/mist232?tab=repositories">https://github.com/mist232</a>
+- 👨‍💻 All of my projects are available  <a id="link" href="https://github.com/mist232?tab=repositories">here</a>
 ## ✉️ Find me on:
 <a href= "https://www.linkedin.com/in/ilarika-singh-376b44227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/sel089/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
