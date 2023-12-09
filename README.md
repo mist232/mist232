@@ -26,10 +26,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,c,eclipse,firebase,gcp,idea,html,java,py,vscode,postman" />
   </a>
   
+  
+  
 ## My Stats :
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mist232&langs_count=5&size_weight=0&count_weight=1&theme=tokyonight)
-</br>
-</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mist232&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mist232&langs_count=5&size_weight=0&count_weight=1&theme=tokyonight&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mist232&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
 
